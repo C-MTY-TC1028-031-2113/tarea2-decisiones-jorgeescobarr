@@ -1,7 +1,7 @@
 def main():
-    x = int(input("Ingresa el primer número: "))
-    y = int(input("Ingresa el segundo número: "))
-    z = int(input("Ingresa el tercer número: "))
+    x = int(input("Ingresa El primer número: "))
+    y = int(input("Ingresa El segundo número: "))
+    z = int(input("Ingresa El tercer número: "))
 
     if (x > y):
         if (z < y):
